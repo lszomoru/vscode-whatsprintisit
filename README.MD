@@ -1,5 +1,5 @@
 # WhatSprintIsIt? extension
 
-WhatSprintIsIt? indicator right in the Visual Studio Code status bar.
+Azure DevOps sprint information right in the Visual Studio Code status bar.
 
-The extension periodically checks the [WhatSprintIsIt?](https://whatsprintis.it/) and displays the sprint information in the status bar.
+The extension periodically polls [WhatSprintIsIt?](https://whatsprintis.it/) and displays the Azure DevOps sprint information in the status bar.
